@@ -18,12 +18,7 @@ This project utilizes the ESP32-CAM AI-Thinker module to create an affordable ho
 
 ## Software Requirements
 
-- Arduino IDE with ESP32 board support
-- ESP32 Camera Library
-- Additional Arduino libraries:
-  - WiFi
-  - ESPAsyncWebServer
-  - ArduinoJson
+- VSCode with ESP-IDF Extension
 
 ## Setup Instructions
 
